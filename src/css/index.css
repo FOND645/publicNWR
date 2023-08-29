@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.ant-form-item {
+    margin: 0 !important;
+}
+
+.ant-table {
+    margin: 0 !important;
+}
