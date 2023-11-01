@@ -1,0 +1,20 @@
+.AddDeviceFrom {
+    width: 100%;
+}
+
+.AddDeviceContainer{
+    width: 100%;
+    display: flex;
+}
+
+.AddDeviceFormItem {
+    flex-grow: 1;
+}
+
+.AddDeviceInput {
+    width: 100%;
+}
+
+.AddDeviceButton {
+    flex-grow: 0;
+}

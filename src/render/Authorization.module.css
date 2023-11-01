@@ -1,0 +1,42 @@
+.AuthorizationPage {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.Authorization {
+    width: 16rem;
+    padding: 1rem;
+    border-radius: 7px;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.AuthorizationForm {
+    width: 100%;
+    margin: 0;
+}
+
+.AuthorizationItem {
+    width: 100%;
+    margin: 0;
+}
+
+.AuthorizationPassword {
+    width: 100%;
+    margin: 0;
+}
+
+.AuthorizationButton {
+    width: 100%;
+    margin: 0;
+}
+
+.AuthorizationError {
+    color: darkred;
+    margin: 0;
+}

@@ -1,0 +1,25 @@
+.AddUserForm{
+    width: 100%;
+}
+
+.AddUserContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.AddUserFormItem {
+    flex-grow: 1;
+}
+
+.AddUserInput {
+    width: 100%;
+}
+
+.AddUserRootsFormItem {
+    width: 10rem;
+}
+
+.AddUserButton {
+    flex-grow: 0;
+}

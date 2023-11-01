@@ -1,0 +1,42 @@
+.ProgressContainer {
+    width: 16rem;
+    margin: 1rem;
+}
+
+.ProgressParagraph {
+    margin: 0 !important;
+}
+
+.ProgressItemContainer {
+    border: 1px solid #EAEAEA;
+    border-radius: 8px;
+    padding: 6px;
+    background-color: #F4F4F4
+}
+
+.ProgressDatePicker {
+    margin-left: 1rem;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.ProgressAddContainer{
+    width: 100%;
+    display:  flex;
+}
+
+.ProgressAddForm {
+    flex-grow: 1;
+}
+
+.ProgressAddFormItem{
+    width: 100%;
+}
+
+.ProgressAddInput{
+    width: 100%;
+}
+
+.ProgressAddButton {
+    flex-grow: 0;
+}

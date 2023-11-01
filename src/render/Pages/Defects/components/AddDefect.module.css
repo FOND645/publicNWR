@@ -1,0 +1,21 @@
+.AddDefectForm{
+    width: 100%;
+}
+
+.AddDefectContainer{
+    display: flex;
+}
+
+.AddDefectFormItem{
+    width: 20rem;
+    flex-grow: 1;
+}
+
+.AddDefectInput{
+    width: 100%;
+}
+
+.AddDefectButton{
+    flex-grow: 0;
+    height: 2rem;
+}

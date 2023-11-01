@@ -1,0 +1,12 @@
+{
+    "main": "main.js",
+    "scripts": {
+        "pack": "electron-packager . NWR-Server --app-version=0.9-beta --platform=win32 --arch=ia32 --out=../Apps --overwrite"
+    },
+    "dependencies": {
+        "sqlite3": "^5.1.6"        
+    },
+    "devDependencies": {
+        "electron": "^22.3.14"
+    }
+}

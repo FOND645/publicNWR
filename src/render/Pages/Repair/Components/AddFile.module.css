@@ -1,0 +1,10 @@
+.AddFileContainer {
+    border: 5px dashed #EFEFEF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.AddFileIcon {
+    font-size: 2rem;
+}

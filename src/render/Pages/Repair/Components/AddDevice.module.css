@@ -1,0 +1,35 @@
+.AddDeviceForm {
+    width: 100%;
+}
+
+.AddDeviceContainer {
+    width: 100%;
+    display: flex;
+}
+
+.AddDeviceRepairNumberFormItem {
+    width: 4rem;
+    flex-grow: 0;
+}
+
+.AddDeviceInput {
+    width: 100%;
+}
+
+.AddDeviceDeviceIDFormItem {
+    flex-grow: 1;
+}
+
+.AddDeviceSerialNumberFormItem {
+    width: 8rem;
+    flex-grow: 0;
+}
+
+.AddDeviceOrganization {
+    width: 12rem;
+    flex-grow: 0;
+}
+
+.AddRepairNoteInput {
+    margin: 0 !important;
+}

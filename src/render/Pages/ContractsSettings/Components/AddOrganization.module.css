@@ -1,0 +1,19 @@
+.AddOrganizationFrom{
+    width: 100%;
+}
+
+.AddOrganizationContainer{
+    width: 100%;
+}
+
+.AddOrganizationFormItem{
+    flex-grow: 1;
+}
+
+.AddOrganizationInput{
+    width: 100%;
+}
+
+.AddOrganizationButton{
+    flex-grow: 0;
+}

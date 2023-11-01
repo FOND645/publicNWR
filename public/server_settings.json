@@ -1,0 +1,8 @@
+{
+    "blanksFolerPath": "G:\\dataBases\\blanks",
+    "documentsFolderPath": "G:\\dataBases\\documents",
+    "backUpsFolderPath": "G:\\dataBases\\backups",
+    "enableWebVersion": false,
+    "WebSocketPort": 7421,
+    "WebInterfacePort": 8080
+}

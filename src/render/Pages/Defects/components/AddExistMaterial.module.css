@@ -1,0 +1,26 @@
+.AddExistMaterialForm{
+    width: 100%;
+}
+
+.AddExistMaterialContainer{
+    display: flex;
+}
+
+.AddExistMaterialFormMaterialIDItem{
+    flex-grow: 1;
+    margin: 0;
+}
+
+.AddExistMaterialFormCountItem{
+    width: 5rem;
+    margin: 0;
+}
+
+.AddExistMaterialInput{
+    width: 100%;
+}
+
+.AddExistMaterialUnits {
+    width: 4rem;
+    flex-grow: 0;
+}

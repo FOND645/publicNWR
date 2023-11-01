@@ -1,0 +1,21 @@
+.RepairNoteContainer {
+    display: flex;
+    flex-direction: column;
+    width: 16rem;
+    border-radius: 15px;
+    background-color: #182533;
+    padding: 10px;
+}
+
+.RepairNoteText {
+    align-self: flex-start;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    color: #f5f5f5;
+}
+
+.RepairNoteDate {
+    align-self: flex-end;
+    color: #6d7f8f;
+}

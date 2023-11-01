@@ -1,0 +1,26 @@
+.AddMaterialForm {
+    width: 100%;
+}
+
+.AddMaterialContainer {
+    width: 100%;
+    display: flex;
+}
+
+.AddMaterialFormNameItem {
+    flex-grow: 1;
+}
+
+.AddMaterialSelectFormUnitItem {
+    width: 8rem;
+    flex-grow: 0;
+}
+
+.AddMaterialButton {
+    flex-grow: 0;
+}
+
+#AddMaterialSelectFormItem {
+    width: 6rem;
+    flex-grow: 0;
+}

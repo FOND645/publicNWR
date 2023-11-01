@@ -1,0 +1,39 @@
+.AddBlockForm {
+    width: 100%;
+    padding-left: 40px;
+}
+
+.AddBlockContainer {
+    width: 100%;
+    display: flex;
+}
+
+.AddBlockFormItemBlock {
+    flex-grow: 2;
+}
+
+.AddBlockFormItemCount {
+    width: 5rem;
+}
+
+.AddBlockFormItemSerialNumber {
+    width: 8rem;
+}
+
+#AddBlockCountFormItem {
+    width: 4rem;
+    flex-grow: 0;
+}
+
+.AddBlockInputNumber {
+    width: 100%;
+}
+
+#AddBlockSerialNumberFormItem {
+    width: 8rem;
+    flex-grow: 0;
+}
+
+.AddBlockButton {
+    flex-grow: 0;
+}

@@ -1,0 +1,20 @@
+.AddBlockForm {
+    width: 100%;
+}
+
+.AddBlockContainer {
+    width: 100%;
+    display: flex;
+}
+
+.AddBlockFormItem {
+    flex-grow: 1;
+}
+
+.AddBlockInput {
+    width: 100%;
+}
+
+.AddBlockButton {
+    flex-grow: 0;
+}

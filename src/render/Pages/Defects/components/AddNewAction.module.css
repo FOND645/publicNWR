@@ -1,0 +1,32 @@
+.AddNewActionForm {
+    padding-left: 40px;
+    width: 100%;
+}
+
+.AddNewActionContainer {
+    width: 100%;
+    display: flex;
+}
+
+.AddNewActionFormIndexItem {
+    margin-bottom: 0;
+    margin-top: 15px;
+    width: 10rem;
+    flex-grow: 0;
+}
+
+.AddNewActionFormInputItem {
+    flex-grow: 1;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.AddNewActionInput {
+    width: 100%;
+}
+
+.AddNewActionButton {
+    flex-grow: 0;
+    margin-bottom: 0;
+    margin-top: 15px;
+}

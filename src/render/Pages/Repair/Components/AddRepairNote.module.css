@@ -1,0 +1,16 @@
+.AddRepairNoteContainer {
+    width: 16rem;
+    display: flex;
+}
+
+.AddRepairNoteFormItem {
+    flex-grow: 1;
+}
+
+.AddRepairNoteInput {
+    width: 100%;
+}
+
+.AddRepairNoteButton {
+    flex-grow: 0;
+}

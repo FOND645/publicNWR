@@ -1,0 +1,18 @@
+.ContractHeadContainer {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ContractHeadTitle {
+    margin: 0 !important;
+}
+
+.ContractHeadNumber {
+    margin: 0 !important;
+}
+
+.ContractHeadDate {
+    margin: 0 !important;
+}

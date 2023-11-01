@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "target": "ES6", // Целевая версия ECMAScript (в данном случае ES6)
+        "module": "commonjs", // Тип модулей (commonjs для Node.js)
+        "strict": true, // Строгий режим
+        "baseUrl": ".", // Базовый путь для относительных модулей
+        "noUnusedLocals": true,
+        "paths": {
+            "@src/*": ["src/*"],
+            "@public/*": ["public/*"]
+        },
+        "outDir": "./dist", // Директория для компилированных файлов
+        "esModuleInterop": true, // Разрешить импорт модулей в стиле ES6
+        "forceConsistentCasingInFileNames": true, // Проверка регистра имен файлов
+        "resolveJsonModule": true, // Разрешение импорта JSON как модулей
+        "isolatedModules": true, // Указывает, что каждый файл является отдельным модулем
+        // Настройка для React
+        "jsx": "react", // Тип JSX (React)
+        "skipLibCheck": true // Пропуск проверки библиотек (для ускорения сборки)
+    },
+    "include": [
+        "src/**/*.ts", // Включить файлы с расширением .ts в директории src
+        "src/**/*.tsx" // Включить файлы с расширением .tsx в директории src
+    ]
+    // "exclude": [
+    //     "node_modules" // Исключить из компиляции файлы из node_modules
+    // ]
+}

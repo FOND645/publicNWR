@@ -1,0 +1,21 @@
+.AddContractForm{
+    width: 100%;
+}
+
+.AddContractContainer{
+    width: 100%;
+    display: flex;
+}
+
+.AddContractFormItem {
+    flex-grow: 1;
+    margin-bottom: 0 !important;
+}
+
+.AddContractInput{
+    width: 100%;
+}
+
+.AddContractButton{
+    flex-grow: 0;
+}
