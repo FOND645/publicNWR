@@ -93,3 +93,7 @@ typings/
 out/
 
 build/
+
+dist/
+
+helper/dataBases
